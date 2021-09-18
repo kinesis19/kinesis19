@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-000000?style=?style=for-the-badge&logo=appveyor&logo=Python&logoColor=#3776AB"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 
 <!--
