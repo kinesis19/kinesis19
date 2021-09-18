@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+<img src="https://img.shields.io/badge/Python-000000?style=?style=for-the-badge&logo=appveyor&logo=Python&logoColor=#3776AB"/></a>
 
 
 <!--
