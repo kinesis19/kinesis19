@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm Glen looking for new things and exploring.
 
+😎I'm Glen looking for new things and exploring.
+
+##💻My Skills
 <img src="https://img.shields.io/badge/Python-306897?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-3747a6?style=flat-square&logo=C&logoColor=white"/>
 
 
