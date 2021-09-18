@@ -5,7 +5,7 @@
 
 ##💻My Skills
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/C-3747a6?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-3747a6?style=flat-square&logo=C&logoColor=white"/>
 
 
 <!--
