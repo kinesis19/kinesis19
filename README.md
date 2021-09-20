@@ -7,7 +7,7 @@ I'm Glen looking for new things and exploring 😎
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-3747a6?style=flat-square&logo=C&logoColor=white"/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ID&show_icons=true&theme=radical)
 <!--
 **Xe-Kinesis/Xe-Kinesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
