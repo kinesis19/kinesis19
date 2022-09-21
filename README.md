@@ -38,5 +38,5 @@ Techs i've used least one <br/>
 
 ## License
 
-KIT(Kumoh Institute Technology) 2017.03 ~
+IICHS 2022.03 ~
 </div>
