@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Kinesis&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
-<img width="100%" src="https://user-images.githubusercontent.com/90908098/191407402-83e2a88f-b53f-45f1-89dd-358455026902.gif"/>
+<img width="100%" height = "20%" src="https://user-images.githubusercontent.com/90908098/191407402-83e2a88f-b53f-45f1-89dd-358455026902.gif"/>
 
 <div align="center">
     
