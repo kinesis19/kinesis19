@@ -37,7 +37,7 @@ Techs i've used least one <br/>
 ="https://img.shields.io/badge/kinesis@zer.kro.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=radical)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist/)](https://solved.ac/nanolist/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
 <br/>
 
 ## License
