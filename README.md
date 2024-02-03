@@ -39,7 +39,8 @@ Technology used in projects more than three times.
 - Others : <br/>
 ![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&line_height=20&hide_rank=true&show_icons=true&theme=neon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist) 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist&line_height=200)](https://solved.ac/nanolist)
 <a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinesis19)](https://github.com/ryo-ma/github-profile-trophy)
