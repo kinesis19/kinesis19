@@ -29,7 +29,7 @@ Technology used in projects more than three times.
 - Project Platform : 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat-square&logo=Unity&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/> <img alt="Redbrick" src ="https://img.shields.io/badge/Redbrick-C6084A.svg?&style=flat-square&logo=Redbrick&logoColor=black"/> <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=neon) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## 🌹 It's Me 🌹
@@ -39,7 +39,7 @@ Technology used in projects more than three times.
 ="https://img.shields.io/badge/Email-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
-![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=neon) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
+<a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
 <br/>
 
 ## License
