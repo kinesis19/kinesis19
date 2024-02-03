@@ -27,7 +27,7 @@ Techs i've used least one <br/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>  
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><br/> 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ## 🌹 It's Me 🌹
@@ -36,7 +36,8 @@ Techs i've used least one <br/>
 <a href = "mailto:kinesis@zer.kro.kr"><img alt="Connect" src 
 ="https://img.shields.io/badge/kinesis@zer.kro.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=radical)
+![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=neon)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
 <br/>
 
