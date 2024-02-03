@@ -18,7 +18,7 @@ Technology used in projects more than three times.
 <img alt="Csharp" src ="https://img.shields.io/badge/Csharp-512BD4.svg?&style=flat-square&logo=Csharp&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
 - Hardly used :
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
-<br/>
+
 (I know, HTML5 is not programming Language :/)
 
 ### Tools
