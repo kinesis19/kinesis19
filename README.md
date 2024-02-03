@@ -13,24 +13,17 @@ Technology used in projects more than three times.
 
 ### Languages
 - Main : 
-<img alt="Korean" src ="https://img.shields.io/badge/Korean-CD313A.svg?&style=flat-square&color=0047A0"/> 
-<img alt="English" src ="https://img.shields.io/badge/English-BB133E.svg?&style=flat-square&color=BB133E"/>
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+<img alt="Korean" src ="https://img.shields.io/badge/Korean-CD313A.svg?&style=flat-square&color=0047A0"/> <img alt="English" src ="https://img.shields.io/badge/English-BB133E.svg?&style=flat-square&color=BB133E"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 - Occasional used : 
-<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-512BD4.svg?&style=flat-square&logo=Csharp&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
+<img alt="Csharp" src ="https://img.shields.io/badge/Csharp-512BD4.svg?&style=flat-square&logo=Csharp&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
 - Hardly used :
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/>
-<img alt="Html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> 
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="Html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
 <br/>
 (I know, HTML5 is not programming Language :/)
 
 ### Tools
 - IDE : 
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-<img alt="Visual Studio" src ="https://img.shields.io/badge/visual studio-5C2D91.svg?&style=flat-square&logo=Visual Studio&logoColor=white"/> <br/>
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img alt="Visual Studio" src ="https://img.shields.io/badge/visual studio-5C2D91.svg?&style=flat-square&logo=Visual Studio&logoColor=white"/> <br/>
 - Project Manager : 
 <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/> <br/>
 - Project Platform : 
