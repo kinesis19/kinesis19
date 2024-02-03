@@ -27,9 +27,7 @@ Technology used in projects more than three times.
 - Project Manager : 
 <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat-square&logo=Github&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/> <br/>
 - Project Platform : 
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat-square&logo=Unity&logoColor=black"/> 
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/>
-<img alt="Redbrick" src ="https://img.shields.io/badge/Redbrick-C6084A.svg?&style=flat-square&logo=Redbrick&logoColor=black"/> <br/><br/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat-square&logo=Unity&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/> <img alt="Redbrick" src ="https://img.shields.io/badge/Redbrick-C6084A.svg?&style=flat-square&logo=Redbrick&logoColor=black"/> <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
