@@ -1,17 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF2E63&height=200&descAlign=50&fontAlign=50&section=header&text=Kinesis&fontSize=65&fontColor=EAEAEA&animation=twinkling)  
 
-<img width="100%" src="https://user-images.githubusercontent.com/90908098/191408851-03ecc74a-9d94-4043-8550-03bfbad9a214.gif"/>
-
-<!-- <div align="center"> -->
-<br/><br/>
-
 ### 💻🤖 Robotics Engineering Student 🤖💻
 
     Hi there! It's me, Kinesis.
     I develop games using Unity, Redbrick and any other program.  
     My dream is to develop my own Android like 'Nano' of webtoon 'Nano List' and live happily.
-<br/><br/>
+<br/>
 
 ## 💻 Tech Stacks 💻
 Technology used more than three times
@@ -28,8 +23,7 @@ Technology used more than three times
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
-
+<br/>
 
 ## 🌹 It's Me 🌹
 <a href = "https://github.com/kinesis19"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
