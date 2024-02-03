@@ -17,19 +17,15 @@
 Technology used more than three times
 
 ### Languages 
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/><img alt="Csharp" src ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> 
-
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/><img alt="Csharp" src ="https://img.shields.io/badge/Csharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/> <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <br/>
 <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><br/>
 
 ### Tools
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<img alt="Visual Studio" src ="https://img.shields.io/badge/visual studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/> <br/>
-<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <br/>
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <br/><br/>
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/><img alt="Visual Studio" src ="https://img.shields.io/badge/visual studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white"/> <br/>
+<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <br/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/><img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
