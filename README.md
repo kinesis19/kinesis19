@@ -29,9 +29,6 @@ Technology used in projects more than three times.
 - Project Platform : 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat-square&logo=Unity&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/> <img alt="Redbrick" src ="https://img.shields.io/badge/Redbrick-C6084A.svg?&style=flat-square&logo=Redbrick&logoColor=black"/> <br/><br/>
 
-![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=neon)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)<a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
-<br/>
-
 ## 🌹 It's Me 🌹
 <a href = "https://github.com/kinesis19"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> 
 <a href = "https://litt.ly/kinesis"><img alt="Google Chrome" src ="https://img.shields.io/badge/HomePage-4285F4.svg?&style=for-the-badge&logo=Google Chrome&logoColor=white"/>
@@ -39,8 +36,8 @@ Technology used in projects more than three times.
 ="https://img.shields.io/badge/Email-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
-
-<br/>
+![Kinesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=neon)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinesis19&layout=compact&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist) <a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
 
 ## License
 OO University : 2024.03.02. ~ <br>
