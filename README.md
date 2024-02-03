@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Kinesis&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF2E63&height=200&descAlign=50&fontAlign=50&section=header&text=Kinesis&fontSize=65&fontColor=EAEAEA&animation=twinkling)  
 
 <img width="100%" src="https://user-images.githubusercontent.com/90908098/191408851-03ecc74a-9d94-4043-8550-03bfbad9a214.gif"/>
 
@@ -37,7 +37,7 @@ Techs i've used least one <br/>
 ="https://img.shields.io/badge/kinesis@zer.kro.kr-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinesis19&show_icons=true&theme=radical)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist/)](https://solved.ac/nanolist/)
 <br/>
 
 ## License
