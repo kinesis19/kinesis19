@@ -47,7 +47,7 @@ I didn't master the language and tools, but I can use it when I need it.
 
 
 ## License
-OO University : 2024.03.02. ~ <br>
+Kwangwoon University : 2024.03.02. ~ <br>
 High School : 2021.03.02. ~ 2023.12.29.<br>
 
 </div>
