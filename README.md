@@ -13,7 +13,8 @@ Technology used in projects more than three times.<br/>
 I didn't master the language and tools, but I can use it when I need it.
 ### Languages
 - Main : 
-<img alt="Korean" src ="https://img.shields.io/badge/Korean-CD313A.svg?&style=flat-square&color=0047A0"/> <img alt="English" src ="https://img.shields.io/badge/English-BB133E.svg?&style=flat-square&color=BB133E"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+<img alt="Korean" src ="https://img.shields.io/badge/Korean-CD313A.svg?&style=flat-square&color=0047A0"/> <img alt="English" src ="https://img.shields.io/badge/English-BB133E.svg?&style=flat-square&color=BB133E"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="markdown" src ="https://img.shields.io/badge/markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white"/> 
+
 - Occasional used : 
 <img alt="Csharp" src ="https://img.shields.io/badge/Csharp-512BD4.svg?&style=flat-square&logo=Csharp&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
 - Hardly used :
