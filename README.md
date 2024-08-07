@@ -25,4 +25,8 @@ I didn't master the language and tools, but I can use it when I need it.
 Kwangwoon University : 2024.03.04. ~ <br>
 High School : 2021.03.02. ~ 2023.12.29.<br>
 
+
+## Others
+[![wakatime](https://wakatime.com/badge/user/8b9dc114-12d1-40d1-b6a8-2895da026fe0.svg)](https://wakatime.com/@8b9dc114-12d1-40d1-b6a8-2895da026fe0)
+
 </div>
