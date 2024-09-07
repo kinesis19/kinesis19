@@ -27,6 +27,11 @@ High School : 2021.03.02. ~ 2023.12.29.<br>
 
 
 ## Others
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kinesis19}" width="638"/>
+</a>
+
 [![wakatime](https://wakatime.com/badge/user/8b9dc114-12d1-40d1-b6a8-2895da026fe0.svg)](https://wakatime.com/@8b9dc114-12d1-40d1-b6a8-2895da026fe0)
 
 </div>
