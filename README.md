@@ -23,6 +23,13 @@ I didn't master the language and tools, but I can use it when I need it.
 ### Design & Collaboration Tools
 [![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion,replit&perline=10&theme=light)](https://skillicons.dev)
 
+### Education
+- Kwangwoon Univ @KW Univ
+  - B.S in Division of Robotics (2024.03 ~ )
+- ROːBIT, Undergraduate Student Lab @Team ROːBIT
+  - 19th Member. Intelligence Robot Team (2024.07 ~ )
+
+
 ## 🏆 My Achievements
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
 <a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
