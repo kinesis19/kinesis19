@@ -24,9 +24,9 @@ I didn't master the language and tools, but I can use it when I need it.
 [![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion,replit&perline=10&theme=light)](https://skillicons.dev)
 
 ## 📖 Education
-- Kwangwoon Univ @KW Univ
+- Kwangwoon Univ [@KW Univ](https://www.kw.ac.kr/en/)
   - B.S in Division of Robotics (2024.03 ~ )
-- ROːBIT, Undergraduate Student Lab @Team ROːBIT
+- ROːBIT, Undergraduate Student Lab [@Team ROːBIT](https://github.com/Team-ROBIT)
   - 19th Member. Intelligence Robot Team (2024.07 ~ )
 
 
