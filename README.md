@@ -32,7 +32,6 @@ I didn't master the language and tools, but I can use it when I need it.
 
 ## 🏆 My Achievements
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
-<a href="https://opgc.me/#/users/kinesis19" target="_blank"><img src="https://api.opgc.me/githubs/users/kinesis19/tag/?theme=prism" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinesis19&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
