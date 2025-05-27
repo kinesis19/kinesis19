@@ -30,12 +30,6 @@ I didn't master the language and tools, but I can use it when I need it.
   - 19th Member. Intelligence Robot Team (2024.07. ~ )
 
 
-## 🏆 My Achievements
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanolist)](https://solved.ac/nanolist)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinesis19&row=1&column=10&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 📞 Contact Me
 [<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github&theme=light"/>](https://github.com/kinesis19)
 [<img height="48px" width="48px" alt="Icone Instagram" src="https://skillicons.dev/icons?i=instagram&theme=light"/>](https://www.instagram.com/creator_kinesis/)
