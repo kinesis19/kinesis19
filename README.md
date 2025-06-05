@@ -1,37 +1,62 @@
-<!-- Kinesis's ReadMe -->
-![header](https://github.com/kinesis19/kinesis19/assets/90908098/fe753219-32f4-4c6a-8941-eecb351340fe)
+<p align="center">
+  <img src="https://github.com/kinesis19/kinesis19/assets/90908098/fe753219-32f4-4c6a-8941-eecb351340fe" alt="header"/>
+</p>
 
-## 🤖 Robotics Engineering Student
-Hey, I'm Kinesis!
+## 🚀 Kinesis Akashic - Lv. 2nd Year Robotics Adventurer
 
-I've been working on a variety of projects, including game, app, and web development, as well as robotics. My dream is to create an Android like 'Nano' from the webtoon Nano List. I also aspire to develop rescue robots that can save lives on the battlefield.
+"A robot's heart beats with code, and bugs are just hidden portals to new adventures... (though they probably need fixing!)"
 
-## 💻 Tech Stacks
-Technology used in projects more than three times.<br/>
-I didn't master the language and tools, but I can use it when I need it.
+*Passionate about creating intelligent androids and life-saving rescue robots. Currently exploring the frontiers of game development and robotics!* 🤖🎮
 
-### Programming & Tech Stack
-[![Programming & Tech Stack](https://skillicons.dev/icons?i=c,cpp,cs,js,py,java,html,css,md,visualstudio,vscode,idea,pycharm,qt,eclipse,sublime,androidstudio,threejs&perline=9&theme=light)](https://skillicons.dev)
+---
 
-### Version Control & Deployment
-[![Version Control & Deployment](https://skillicons.dev/icons?i=git,github,netlify,ubuntu&perline=10&theme=light)](https://skillicons.dev)
+### 🎯 Current Quests & Training Log
 
-### Hardware & Embedded Systems
-[![Hardware & Embedded Systems](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=12&theme=light)](https://skillicons.dev)
+-   [x] **Kwangwoon University, Division of Robotics**: Completed 1st year, now acquiring 2nd-year knowledge! (Mar 2024 ~ Present) 🧠
+-   [ ] **ROːBIT, Intelligent Robotics Team**: Joined the team, honing practical robot development skills! (Jul 2024 ~ Present) 🛠️
+-   [ ] **Changdong Youth Center 'RPG' Club Mentoring**: Spreading the joy of development to future creators! (Mar 2025 ~ Present) 🧑‍🏫
 
+---
 
-### Design & Collaboration Tools
-[![Version Control & Deployment](https://skillicons.dev/icons?i=figma,obsidian,notion,replit&perline=10&theme=light)](https://skillicons.dev)
+### ⚔️ My Arsenal (Tech Stack & Dev Tools)
+**💻 Core Languages** : C, C++, C#, Python, Java, JavaScript
 
-## 📖 Education
-- Kwangwoon Univ [@KW Univ](https://www.kw.ac.kr/en/)
-  - B.S in Division of Robotics (2024.03. ~ )
-- ROːBIT, Undergraduate Student Lab [@Team ROːBIT](https://github.com/Team-ROBIT)
-  - 19th Member. Intelligence Robot Team (2024.07. ~ )
+**🌐 Web & Markup** : HTML, CSS, Markdown
 
+**🛠️ IDEs & Editors** : Visual Studio, VS Code, IntelliJ IDEA, PyCharm, Qt Creator, Eclipse, Sublime Text, Android Studio
 
-## 📞 Contact Me
-[<img height="48px" width="48px" alt="Icone Github" src="https://skillicons.dev/icons?i=github&theme=light"/>](https://github.com/kinesis19)
-[<img height="48px" width="48px" alt="Icone Instagram" src="https://skillicons.dev/icons?i=instagram&theme=light"/>](https://www.instagram.com/creator_kinesis/)
-[<img height="48px" width="48px" alt="Icone Linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>](https://www.linkedin.com/in/kinesis19/)
-[<img height="48px" width="48px" alt="Icone Gmail" src="https://skillicons.dev/icons?i=discord&theme=light"/>](https://github.com/kinesis19/kinesis19/tree/main/Docs/Discord_Add)
+**🎮 Graphics & Game Dev**: Three.js, Unity
+
+**⚙️ Hardware & Embedded**: Arduino, Raspberry Pi
+
+**🔗 Dev Tools & Collab** : Git, GitHub, Netlify, Ubuntu, Figma, Obsidian, Notion, Replit
+
+---
+
+### 🗺️ Main Quest Log (Projects & Experience)
+
+* <details>
+  <summary><strong>Redbrick Creator Internship Program [@Redbrick](https://redbrick.land/) (Completed: Jun 2024 ~ Sep 2024)</strong> 🏆 &nbsp; <kbd>▶ Show Details</kbd></summary>
+
+    <br> * **Position:** Creator Intern (Part-time)
+    * **Key Contributions & Responsibilities:**
+        * Designed and developed game worlds on the Redbrick metaverse platform.
+        * Scripted interactive experiences and implemented game logic using Redbrick's proprietary studio tools.
+        * Collaborated closely with Redbrick team members, actively sharing ideas and contributing to team projects.
+        * Iteratively refined and developed content based on constructive feedback from the Redbrick team.
+    * **Experience Gained (XP Unlocked):**
+        * Gained practical, real-world experience in the end-to-end process of metaverse content planning and development.
+        * Significantly improved skills in leveraging the Redbrick platform and JavaScript for creating interactive content.
+        * Cultivated a strong understanding of User Experience (UX) design principles as applied to immersive 3D environments.
+  </details>
+
+---
+
+### 👾 Want to party up for the next adventure? (Contact)
+
+* **Guild Hall (Dev Stronghold):** [My GitHub Lair](https://github.com/kinesis19)  
+* **Carrier Pigeon (Email):** <kinesis@kashic.dev>
+* **Secret Outposts (Connect with me on):**
+    * Instagram: [Visual Logbook (@creator_kinesis)](https://www.instagram.com/creator_kinesis/)
+    * LinkedIn: [Professional Network (Kinesis Akashic)](https://www.linkedin.com/in/kinesis19/)
+    * Discord: [Party Chat Instructions](https://github.com/kinesis19/kinesis19/tree/main/Docs/Discord_Add)
