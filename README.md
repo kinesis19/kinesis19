@@ -12,9 +12,9 @@
 
 ### 🎯 Current Quests & Training Log
 
--   [x] **Kwangwoon University, Division of Robotics**: Completed 1st year, now acquiring 2nd-year knowledge! (Mar 2024 ~ Present) 🧠
+-   [x] **Kwangwoon University, Division of Robotics**: Completed 1st year, now acquiring 3rd-year knowledge! (Mar 2024 ~ Present) 🧠
 -   [ ] **ROːBIT, Intelligent Robotics Team**: Joined the team, honing practical robot development skills! (Jul 2024 ~ Present) 🛠️
--   [ ] **Changdong Youth Center 'RPG' Club Mentoring**: Spreading the joy of development to future creators! (Mar 2025 ~ Present) 🧑‍🏫
+-   [x] **Changdong Youth Center 'RPG' Club Mentoring**: Spreading the joy of development to future creators! (2025) 🧑‍🏫
 
 ---
 
